@@ -8,7 +8,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        sans: ['JetBrains Mono', 'sans-serif'],
+        sans: ['JetBrains Mono'],
       },
       colors: {
         'nord-0': '#2e3440',
